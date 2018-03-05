@@ -2,6 +2,8 @@
 Parsed reading of sentences using MeCab library.
 
 ## Introduction
+MeCabを使用して、文章を読み仮名に変換します。変換後はカタカナになります。
+もし、変換できない場合は、変換に使用した文字がそのまま返ります。
 
 ## Quick Start
 ### Install
