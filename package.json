@@ -1,0 +1,20 @@
+{
+  "name": "mecab-yomigana",
+  "version": "0.1.0",
+  "description": "Parsed reading of sentences using MeCab library.",
+  "main": "mecab-yomigana.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seigo-pon/node-mecab-yomigana.git"
+  },
+  "author": "seigo-pon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/seigo-pon/node-mecab-yomigana/issues"
+  },
+  "homepage": "https://github.com/seigo-pon/node-mecab-yomigana#readme",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "shell-quote": "^1.6.1"
+  }
+}
