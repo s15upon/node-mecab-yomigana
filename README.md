@@ -13,7 +13,7 @@ npm install mecab-yomigana
 
 ### Example
 ```
-var MeCaby = require('./mecab-yomigana.js');
+var MeCaby = require('mecab-yomigana');
 var my = new MeCaby();
 
 my.parse('どっちも始め何ともこの発見方においてのの中のなるたあり。', function(err, result) {
