@@ -6,6 +6,7 @@ Parsed reading of sentences using MeCab library.
 ## Quick Start
 ### Install
 ```
+npm install mecab-yomigana
 ```
 
 ### Example
