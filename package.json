@@ -1,6 +1,6 @@
 {
   "name": "mecab-yomigana",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Parsed reading of sentences using MeCab library.",
   "main": "mecab-yomigana.js",
   "repository": {
